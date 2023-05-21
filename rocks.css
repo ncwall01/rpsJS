@@ -190,11 +190,7 @@ footer {
   margin-bottom: 30px;
 }
 
-
-
-
-
-
-
-  
-  
+#user, #comp {
+  font-size: 35px;
+  text-align: center;
+}
